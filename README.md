@@ -11,7 +11,7 @@ Sacola API.
 -  Incluir itens na sacola
 -  Visualizar sacola
 -  Fechar sacola
--  Excluir item da sacola
+-  Excluir item da sacola (Em andamento)
 
 ### Demostração da Aplicação
 
