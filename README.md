@@ -8,10 +8,10 @@ Sacola API.
 
 ### Features
 
-[x] Incluir itens na sacola
-[x] Visualizar sacola
-[x] Fechar sacola
-[] Excluir item da sacola (Em andamento)
+- [x] Incluir itens na sacola
+- [x] Visualizar sacola
+- [x] Fechar sacola
+- [ ] Excluir item da sacola (Em andamento)
 
 ### Demostração da Aplicação
 
